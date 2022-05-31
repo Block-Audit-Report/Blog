@@ -7,5 +7,4 @@
 ![solidity](https://user-images.githubusercontent.com/81981737/171218186-6b4460b8-5d9f-452f-a31e-3209b57645a2.png)
 
 
-https://user-images.githubusercontent.com/81981737/171218189-ffb2c7e3-9d32-46b0-8e8b-424a468058bc.mov
 
