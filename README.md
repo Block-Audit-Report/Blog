@@ -1,7 +1,6 @@
 # Blog
 
-Please contact on Telegram;
-https://t.me/BlockAuditReport
+
 
 
 
